@@ -1,4 +1,4 @@
-# 🐞💰🔥 BUG BOUNTY PROOF OF CONCEPT 🔥💰🐞
+# 🐞💰🔥 BUG BOUNTY PROOF OF CONCEPT by @bughuntar 🔥💰🐞
 
 > ⚠️ Responsible Disclosure | Ethical Hacking | Security Research Only ⚠️  
 
